@@ -1,4 +1,5 @@
 %graph of tempreature variation of fins tempreature from x=0 to end point
+%Sample Data, can take your data
 m=9.907734547022379 ; %value of m computed from previous code
 Tinf=298 ; %value of temprature of ambient air in kelvin
 To=354 ; %value of tempreature at x=0
